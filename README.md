@@ -1,4 +1,4 @@
-# OPP Exercises 10/02/22
+# C# Class Exercises 10/02/22
 Professor: Nitya Govindaraju
 
 # Exercise 1:
