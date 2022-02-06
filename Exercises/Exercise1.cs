@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 //  22931 - Marcos Oliveira
+
 //  Write a console-based application that prompts a user for an hourly pay rate. While the user 
 //  enters values less than $5.65 or greater than $49.99, continue to prompt the user. Before the 
 //  program ends, display the valid pay rate.

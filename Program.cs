@@ -10,9 +10,13 @@ namespace OPP_Exercises_10_02_22
         {
             Console.WriteLine("OPP - Exercises Class 10/02.\n");
             
-            // Exercis
-            Exercise1 exercise1 = new();
-            exercise1.HourlyPayRate();
+            // Exercise 1
+            //Exercise1 exercise1 = new();
+            //exercise1.HourlyPayRate();
+
+            // Exercise 2
+            Exercise2 exercise2 = new();
+            exercise2.SumsIntegers();
         }
     }
 }
