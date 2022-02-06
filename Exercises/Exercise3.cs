@@ -16,7 +16,7 @@ namespace OPP_Exercises_10_02_22.Exercises
 
             // It gererates a ramdom num
             Random randomGenerator = new();
-            int ramdomNum = randomGenerator.Next(1, 2);
+            int ramdomNum = randomGenerator.Next(1, 10);
 
             // Checking if users' num is iqual to ramdom num
             if (answer == ramdomNum)
